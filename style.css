@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+.cabecalho{
+    width: 100%;
+    text-align: center;
+    background-color: purple;
+}
+
+.cabecalho_titulo{
+    color:aquamarine;
+    font-family:"red hat display", sans-serif;
+    font-weight: 300;
+}
